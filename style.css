@@ -1,0 +1,85 @@
+body {
+    font-family: 'Mina', sans-serif;
+    width: 1200;
+   
+    padding-left: 30px;
+}
+
+a {
+    color: rgb(255, 153, 0);
+    
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 20px;
+   
+    
+    
+}
+b{
+    text-decoration: overline;
+    text-decoration-thickness: 5px ;
+    text-decoration-color: rgb(224, 224, 217);
+    word-spacing: 10px;
+}
+
+h4 {
+   color: #8b8b6d;
+    word-spacing: 10px;
+
+}
+
+
+sub {
+    color: #8b8b6d;
+}
+
+hr {
+    color: rgb(201, 201, 121);
+}
+
+h5 {
+    color: rgb(139, 139, 109);
+}
+
+h6 {
+    color: rgb(139, 139, 109);
+    text-align: center;
+
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+p {
+    text-align: justify;
+    font-size: medium;
+    color: rgb(54, 49, 49);
+
+}
+
+div {
+    background-color: rgb(255, 234, 237);
+    font-size: large;
+    text-align: justify;
+    text-align: center;
+    padding: 30px;
+    width: 1000px;
+
+    text-align:
+        line-height: 20px;
+    padding: 30px;
+
+
+
+
+}
+
+a {}
